@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/devdhee_" target="blank"><img src="https://img.shields.io/twitter/follow/devdhee_?logo=twitter&style=for-the-badge" alt="devdhee_" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Backend - ExpressJs**
 
 - 👨‍💻Some of my projects are available at [davidomiunu.netlify.app](davidomiunu.netlify.app)
 
