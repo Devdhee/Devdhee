@@ -1,14 +1,22 @@
+## Hey there 👋, I'm [David!](https://github.com/Devdhee/)
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/devdhee_)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/david-omiunu)
 
 
+I am a Full Stack Developer with a passion for problem-solving, I'm driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, etc. I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
 
-<h1 align="center">Hi 👋, I'm Omiunu David</h1>
-<h3 align="center">A passionate frontend developer from Lagos, Nigeria</h3>
+Feel free to check my [portfolio](davidomiunu.netlify.app) for some of my live projects.
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devdhee&label=Profile%20views&color=0e75b6&style=flat" alt="devdhee" /> </p>
 
-<p align="left"> <a href="https://twitter.com/devdhee_" target="blank"><img src="https://img.shields.io/twitter/follow/devdhee_?logo=twitter&style=for-the-badge" alt="devdhee_" /></a> </p>
+<p <details>
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devdhee&hide_border=true" />
+</details>
 
 - 🌱 I’m currently learning **Backend - ExpressJs**
 
