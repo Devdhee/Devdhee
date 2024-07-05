@@ -6,7 +6,7 @@
 
 I am a Full Stack Developer with a passion for problem-solving, I'm driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, etc. I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
 
-Feel free to check my [portfolio](davidomiunu.netlify.app) for some of my live projects.
+Feel free to check my [PORTFOLIO](https://davidomiunu.netlify.app/) for some of my live projects.
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
