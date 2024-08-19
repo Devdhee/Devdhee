@@ -30,7 +30,7 @@ Check out some of my [live projects](https://david-omiunu.vercel.app/) and repos
 ---
 
 ## Let's Connect!
-- 🐦 [Twitter](https://twitter.com/[yourprofile](https://x.com/devdhee_))
+- 🐦 [Twitter](https://x.com/devdhee_)
 - 💼 [LinkedIn](https://www.linkedin.com/in/david-omiunu/)
 - 🌐 [Portfolio](https://https://david-omiunu.vercel.app/)
 
