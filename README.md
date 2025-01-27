@@ -25,7 +25,7 @@ I'm a **Full Stack Software Developer** with a skill for turning ideas into real
 - 🎥 **Tech Enthusiast**: When I'm not coding, I'm watching tech-related YouTube videos to fuel my curiosity.
 
 ## Projects
-Check out some of my [live projects](https://david-omiunu.vercel.app/) and repositories to see what I've been working on. I'm always open to feedback and collaboration, so feel free to reach out!
+Check out my [portfolio](https://david-omiunu.vercel.app/) and repositories to see what I've been working on. I'm always open to feedback and collaboration, so feel free to reach out!
 
 ---
 
