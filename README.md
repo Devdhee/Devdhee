@@ -17,7 +17,6 @@ I'm a **Full Stack Software Engineer** with a skill for turning ideas into reali
 - 🛠️ **Git** & **GitHub**
 - 📦 **Docker**
 - 📈 **CI/CD Pipelines**
-- 🔄 **REST APIs** 
 
 ## About Me
 - 🔍 **Problem Solver**: Driven by purpose and the challenge of finding solutions.
