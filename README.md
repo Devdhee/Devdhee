@@ -1,5 +1,5 @@
 
-# Hello, World! 👋 I'm [David!](https://github.com/Devdhee/)
+# Hello, World! 👋
 
 I'm a **Full Stack Software Engineer** with a skill for turning ideas into reality. My passion lies in building scalable, user-friendly web applications and beautiful landing pages that makes a difference. Here's a snapshot of my tech stack: 
 
