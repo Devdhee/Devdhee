@@ -23,9 +23,6 @@ I'm a **Full Stack Software Engineer** with a skill for turning ideas into reali
 - 🌟 **Tech Explorer**: Always learning and experimenting with new technologies.
 - 🎥 **Tech Enthusiast**: When I'm not coding, I'm watching tech-related YouTube videos to fuel my curiosity.
 
-## Projects
-Check out my [portfolio](https://david-omiunu.vercel.app/) and repositories to see what I've been working on. I'm always open to feedback and collaboration, so feel free to reach out!
-
 ---
 
 ## Let's Connect!
