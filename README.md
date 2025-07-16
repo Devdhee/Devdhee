@@ -28,7 +28,6 @@ I'm a **Full Stack Software Engineer** with a skill for turning ideas into reali
 ## Let's Connect!
 - 🐦 [Twitter](https://x.com/devdhee_)
 - 💼 [LinkedIn](https://www.linkedin.com/in/david-omiunu/)
-- 🌐 [Portfolio](https://https://david-omiunu.vercel.app/)
 
 ---
 
